@@ -3,8 +3,6 @@
 # VRC Whack-a-Mole Prefab
 **By ThisIsBennyK and Sayuyu**  
 
-https://twitter.com/ThisIsBennyK
-
 This is a recreation of the popular arcade game Whack-a-Mole as a prefab for VRChat.
 
 ## Features
@@ -29,6 +27,6 @@ To use the prefab, please give credit to us either somewhere in your world on di
 
 ## Known Issues
 - The [VRC Whack-a-Mole Prefab](https://vrchat.com/home/launch?worldId=wrld_7077a8d7-19e7-4c8a-bc45-99714abfe724) world is not compatible on Quest
-- It is unknown if the machine works on Quest, haven't had the chance to try it. Lmk if it's not!
-- The game may suddenly stop working if the person playing leaves
+- It is unknown if the machine works on Quest, haven't had the chance to try it. Lmk if it does / doesn't!
+- The game may suddenly stop working if the person playing leaves, or if it is continuing to work:
 - The game does not tell you who the play session got switched to when a person leaves mid-game
